@@ -1,0 +1,29 @@
+.header{
+    height: 200px;
+    background-color: rgb(219, 219, 163);
+    line-height: 100px;
+    font-family:'Courier New', Courier, monospace; 
+    text-align: center;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    height: 50px;
+    background-color: rgb(214, 214, 166);
+    line-height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mainbody{
+    text-align: center;
+    background-color: rgb(240, 240, 220);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link{
+    color: rgb(110, 107, 107);
+}
